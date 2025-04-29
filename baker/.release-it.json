@@ -1,8 +1,9 @@
 {
     "$schema": "https://unpkg.com/release-it@19/schema/release-it.json",
     "git": {
-        "commitMessage": "chore: release ${name} v${version}",
-        "tagAnnotation": "${name} v${version}"
+        /* "commitMessage": "chore: release ${name} v${version}", */
+        "commit": false,
+        "tagName": "${name}@${version}"
     },
     "github": {
       "release": true,
