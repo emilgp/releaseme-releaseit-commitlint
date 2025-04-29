@@ -5,6 +5,7 @@
         "tagAnnotation": "${name} v${version}"
     },
     "github": {
-      "release": true
+      "release": true,
+      "releaseName": "${name} ${version}"
     }
   }
