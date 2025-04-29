@@ -8,5 +8,7 @@
       "release": true,
       "releaseName": "${name} ${version}"
     },
-    "npm": false
-  }
+    "npm": {
+      "ignoreVersion": true
+    }
+}
