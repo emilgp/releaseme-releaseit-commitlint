@@ -18,8 +18,14 @@
     "@commitlint/config-conventional": "^19.8.0",
     "@commitlint/config-pnpm-scopes": "^19.8.0",
     "@commitlint/prompt-cli": "^19.8.0",
+    "@release-it/conventional-changelog": "^10.0.1",
     "dotenv-cli": "^8.0.0",
     "release-it": "^19.0.0"
   },
-  "packageManager": "pnpm@10.8.0"
+  "packageManager": "pnpm@10.8.0",
+  "pnpm": {
+    "overrides": {
+      "conventional-changelog-conventionalcommits": "8.0.0"
+    }
+  }
 }
