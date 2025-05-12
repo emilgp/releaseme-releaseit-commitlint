@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.8.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.8.0-alpha.0...${npm.name}@0.8.0) (2025-05-12)
+
 ## [0.8.0-alpha.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.7.0-alpha.2...${npm.name}@0.8.0-alpha.0) (2025-05-12)
 
 ### Bug Fixes
