@@ -5,6 +5,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release:prod": "release-it --github.release=true --ci",
-    "release:alpha": "release-it --preRelease=alpha --no-plugins.@release-it/conventional-changelog.infile  --no-plugins.@release-it/conventional-changelog.writerOpts.generateOn --ci"
+    "release:alpha": "release-it --preRelease=alpha --no-plugins.@release-it/conventional-changelog.writerOpts.generateOn --ci"
   }
 }
