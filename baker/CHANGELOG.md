@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.7.0-alpha.1](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.7.0-alpha.0...${npm.name}@0.7.0-alpha.1) (2025-05-12)
+
+### Features
+
+* **baker:** another one ([2b2b482](https://github.com/emilgp/releaseme-releaseit-commitlint/commit/2b2b482a75488734ee9892d2831c9f6488a01a89))
+
 ## [0.7.0-alpha.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.6.0...${npm.name}@0.7.0-alpha.0) (2025-05-12)
 
 ### Bug Fixes
