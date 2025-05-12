@@ -1,17 +1,14 @@
 {
     "$schema": "https://unpkg.com/release-it@19/schema/release-it.json",
     "git": {
-        "commit": false,
+        "commit": true,
         "tagName": "${npm.name}@${version}",
         "requireCleanWorkingDir": false
     },
     "github": {
-      "release": true,
+      "release": false,
       "releaseName": "${name} ${version}"
     },
-    "npm": {
-      "ignoreVersion": true
-        },
     "plugins": {
       "@release-it/conventional-changelog": {
         "infile": "CHANGELOG.md",
