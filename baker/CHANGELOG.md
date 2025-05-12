@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.7.0-alpha.2](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.7.0-alpha.1...${npm.name}@0.7.0-alpha.2) (2025-05-12)
+## [0.7.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.7.0-alpha.1...${npm.name}@0.7.0) (2025-05-12)
 
 ## [0.7.0-alpha.1](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.7.0-alpha.0...${npm.name}@0.7.0-alpha.1) (2025-05-12)
 
