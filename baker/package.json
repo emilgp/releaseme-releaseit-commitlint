@@ -1,9 +1,10 @@
 {
   "name": "baker",
-  "version": "0.11.0-alpha.0",
+  "version": "0.11.0-alpha.1",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it"
+    "release": "release-it",
+    "release:alpha": "release-it --preRelease=alpha --no-plugins.@release-it/conventional-changelog.infile --ci"
   }
 }
