@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.0-alpha.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.14.0...${npm.name}@0.15.0-alpha.0) (2025-05-13)
+
+### Features
+
+* **baker:** anoter ([156accf](https://github.com/emilgp/releaseme-releaseit-commitlint/commit/156accfacaa86b1662c9d39bd18d51226362c2fc))
+
 ## [0.14.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.13.0...${npm.name}@0.14.0) (2025-05-13)
 
 ## [0.13.0](https://github.com/emilgp/releaseme-releaseit-commitlint/compare/baker@0.13.0-alpha.0...${npm.name}@0.13.0) (2025-05-12)
